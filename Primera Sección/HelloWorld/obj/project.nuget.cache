@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6gtDgNKETI1ULm/SkAWaFk4L23BuCwzipVTijvf5dN7DkTCr64t/tsKNNx+gxyuu+ruiZDPTvXC3bhvQQ4SQ5A==",
+  "success": true,
+  "projectFilePath": "/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/rodrigomorales/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

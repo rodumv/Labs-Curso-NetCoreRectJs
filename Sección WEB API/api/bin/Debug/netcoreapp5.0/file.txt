@@ -1,0 +1,125 @@
+2020-07-14 08:16:06.5758|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-14 08:16:06.6556|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-14 08:16:06.6724|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-14 08:16:06.6792|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-14 08:16:06.6844|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-14 08:16:15.1613|FATAL|api.Controllers.CastController|Un error ocurrio al buscar el cast con id 4
+2020-07-14 08:34:10.6686|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-14 08:34:10.7399|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-14 08:34:10.7588|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-14 08:34:10.7734|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-14 08:34:10.7877|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-14 08:42:52.0509|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-14 08:42:52.1325|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-14 08:42:52.1524|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-14 08:42:52.1573|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-14 08:42:52.1632|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-14 08:44:15.5590|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-14 08:44:15.6510|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-14 08:44:15.6612|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-14 08:44:15.6711|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-14 08:44:15.6781|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-14 08:56:09.0867|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-14 08:56:09.1517|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-14 08:56:09.1617|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-14 08:56:09.1676|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-14 08:56:09.1738|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-19 11:02:16.5385|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-19 11:02:16.5991|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-19 11:02:16.6032|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-19 11:02:16.6039|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-19 11:02:16.6039|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-21 07:34:45.0862|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-21 07:34:45.1459|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-21 07:34:45.1497|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-21 07:34:45.1521|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-21 07:34:45.1531|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-21 07:35:30.4531|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2020-07-21 07:40:40.7589|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-21 07:40:40.8264|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-21 07:40:40.8309|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-21 07:40:40.8320|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-21 07:40:40.8320|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-21 07:58:06.3123|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-21 07:58:06.3710|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-21 07:58:06.3732|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-21 07:58:06.3738|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-21 07:58:06.3743|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-23 07:51:55.1353|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-23 07:51:55.2034|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-23 07:51:55.2100|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-23 07:51:55.2100|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-23 07:51:55.2117|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-23 07:57:10.5216|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-23 07:57:10.6104|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-23 07:57:10.6125|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-23 07:57:10.6146|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-23 07:57:10.6173|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-23 07:59:28.4982|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-23 07:59:28.5496|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-23 07:59:28.5516|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-23 07:59:28.5516|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-23 07:59:28.5530|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-23 07:59:32.7635|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2020-07-23 07:59:42.4381|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-23 07:59:42.5048|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-23 07:59:42.5119|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-23 07:59:42.5126|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-23 07:59:42.5132|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-24 07:35:24.1941|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-24 07:35:24.2525|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-24 07:35:24.2546|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-24 07:35:24.2553|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-24 07:35:24.2553|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-24 07:36:05.0866|INFO|api.Controllers.CastController|El cast con id 1 no fue encontrado
+2020-07-24 07:36:13.0021|INFO|api.Controllers.CastController|El cast con id 2 no fue encontrado
+2020-07-24 07:37:20.9691|INFO|api.Controllers.CastController|El cast con id 2 no fue encontrado
+2020-07-24 07:38:14.4630|INFO|api.Controllers.CastController|El cast con id 7 no fue encontrado
+2020-07-24 07:49:05.4329|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2020-07-24 07:49:15.2641|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-24 07:49:15.3085|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-24 07:49:15.3128|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-24 07:49:15.3128|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-24 07:49:15.3146|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-24 07:49:40.5681|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-07-24 07:51:34.8380|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2020-07-24 07:51:44.4245|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-24 07:51:44.4775|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-24 07:51:44.4798|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-24 07:51:44.4805|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-24 07:51:44.4805|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-24 07:55:01.8781|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2020-07-24 07:55:09.7064|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-24 07:55:09.7744|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-24 07:55:09.7766|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-24 07:55:09.7771|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-24 07:55:09.7778|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-24 07:57:57.2818|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2020-07-24 07:58:07.6924|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-24 07:58:07.7529|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-24 07:58:07.7593|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-24 07:58:07.7606|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-24 07:58:07.7613|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-24 07:58:26.4146|INFO|api.Controllers.CastController|El cast con id 7 no fue encontrado
+2020-07-25 09:08:54.9756|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-25 09:08:55.0824|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-25 09:08:55.1021|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-25 09:08:55.1084|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-25 09:08:55.1157|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-25 09:17:10.2660|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-25 09:17:10.3298|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-25 09:17:10.3432|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-25 09:17:10.3444|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-25 09:17:10.3466|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-25 09:20:20.6471|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2020-07-25 10:29:19.9984|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-25 10:29:20.0721|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-25 10:29:20.0740|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-25 10:29:20.0740|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-25 10:29:20.0753|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api
+2020-07-25 10:33:07.4438|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2020-07-25 10:33:16.6636|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2020-07-25 10:33:16.7382|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2020-07-25 10:33:16.7401|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-25 10:33:16.7407|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-25 10:33:16.7407|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/rodrigomorales/Documents/aspnet_core/demos/api

@@ -1,0 +1,12 @@
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/bin/Debug/net5.0/Async.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/bin/Debug/net5.0/Async.runtimeconfig.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/bin/Debug/net5.0/Async.runtimeconfig.dev.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/bin/Debug/net5.0/Async.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/bin/Debug/net5.0/Async.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/obj/Debug/net5.0/Async.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/obj/Debug/net5.0/Async.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/obj/Debug/net5.0/Async.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/obj/Debug/net5.0/Async.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/obj/Debug/net5.0/Async.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/obj/Debug/net5.0/Async.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/Async/obj/Debug/net5.0/Async.genruntimeconfig.cache

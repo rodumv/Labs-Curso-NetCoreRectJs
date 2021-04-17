@@ -1,0 +1,14 @@
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CopyComplete

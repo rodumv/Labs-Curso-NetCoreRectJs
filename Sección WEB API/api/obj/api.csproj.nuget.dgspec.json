@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rodrigomorales/Documents/aspnet_core/demos/api/api.csproj": {}
+  },
+  "projects": {
+    "/Users/rodrigomorales/Documents/aspnet_core/demos/api/api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigomorales/Documents/aspnet_core/demos/api/api.csproj",
+        "projectName": "api",
+        "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/api/api.csproj",
+        "packagesPath": "/Users/rodrigomorales/.nuget/packages/",
+        "outputPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigomorales/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20312.15, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20312.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-preview.4.20258.7/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
